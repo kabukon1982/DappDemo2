@@ -1,2 +1,13 @@
-# DappDemo2
-The Dapp for Create ERC20 New Token can Staking, Reward and web3 for interaction with contract and wallet
+# Requirements
+
+    ## Node Version
+        16 | 18 | 20
+    ## OS
+        Windows 10 | Mac OS
+    ## Browser
+        Chrome | Edge
+
+# Running instructions
+
+- Install project packages (`npm install`)
+- Start project (`npm run start`)
